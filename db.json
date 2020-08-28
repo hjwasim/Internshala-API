@@ -1,0 +1,51 @@
+{
+    "Internshala": {
+        "Internships": [
+            {
+                "name": "Software Testing And Automation",
+                "company": "Log2Square",
+                "duration": "3 Months",
+                "stipend": 5000,
+                "data": "202o-01-01T23:28:56.782Z",
+                "logo": "https://internshala.com/cached_uploads/logo%2F5ec10c9c91a4c1589709980.png",
+                "start": "Immediately"
+            },
+            {
+                "name": "Software Development",
+                "company": "Hjwasim",
+                "duration": "5 Months",
+                "stipend": 7000,
+                "data": "2020-09-01T23:28:56.782Z",
+                "logo": "https://internshala.com/cached_uploads/logo%2F5ec10c9c91a4c1589709980.png",
+                "start": "Immediately"
+            },
+            {
+                "name": "Web Development",
+                "company": "Triban Studio",
+                "duration": "1 Months",
+                "stipend": 4000,
+                "data": "2020-09-01T23:28:56.782Z",
+                "logo": "https://internshala.com/cached_uploads/logo%2F5ec10c9c91a4c1589709980.png",
+                "start": "Immediately"
+            },
+            {
+                "name": "Networking",
+                "company": "Matplau",
+                "duration": "3 Months",
+                "stipend": 8000,
+                "data": "2020-01-01T23:28:56.782Z",
+                "logo": "https://internshala.com/cached_uploads/logo%2F5ec10c9c91a4c1589709980.png",
+                "start": "Immediately"
+            }
+            ,{
+                "name": "Software Testing",
+                "company": "squareBase",
+                "duration": "2 Months",
+                "stipend": 25000,
+                "data": "2020-01-01T23:28:56.782Z",
+                "logo": "https://internshala.com/cached_uploads/logo%2F5ec10c9c91a4c1589709980.png",
+                "start": "Immediately"
+            }
+        ]
+    }
+}
