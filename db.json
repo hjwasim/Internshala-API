@@ -1,51 +1,160 @@
-{
-    "Internshala": {
-        "Internships": [
-            {
-                "name": "Software Testing And Automation",
-                "company": "Log2Square",
-                "duration": "3 Months",
-                "stipend": 5000,
-                "data": "202o-01-01T23:28:56.782Z",
-                "logo": "https://internshala.com/cached_uploads/logo%2F5ec10c9c91a4c1589709980.png",
-                "start": "Immediately"
-            },
-            {
-                "name": "Software Development",
-                "company": "Hjwasim",
-                "duration": "5 Months",
-                "stipend": 7000,
-                "data": "2020-09-01T23:28:56.782Z",
-                "logo": "https://internshala.com/cached_uploads/logo%2F5ec10c9c91a4c1589709980.png",
-                "start": "Immediately"
-            },
-            {
-                "name": "Web Development",
-                "company": "Triban Studio",
-                "duration": "1 Months",
-                "stipend": 4000,
-                "data": "2020-09-01T23:28:56.782Z",
-                "logo": "https://internshala.com/cached_uploads/logo%2F5ec10c9c91a4c1589709980.png",
-                "start": "Immediately"
-            },
-            {
-                "name": "Networking",
-                "company": "Matplau",
-                "duration": "3 Months",
-                "stipend": 8000,
-                "data": "2020-01-01T23:28:56.782Z",
-                "logo": "https://internshala.com/cached_uploads/logo%2F5ec10c9c91a4c1589709980.png",
-                "start": "Immediately"
-            }
-            ,{
-                "name": "Software Testing",
-                "company": "squareBase",
-                "duration": "2 Months",
-                "stipend": 25000,
-                "data": "2020-01-01T23:28:56.782Z",
-                "logo": "https://internshala.com/cached_uploads/logo%2F5ec10c9c91a4c1589709980.png",
-                "start": "Immediately"
-            }
-        ]
-    }
-}
+[
+    {"block": "A", 
+"flat": 101,
+"ownwerName": "Mr. Liam",
+"ownerMobile": 8555502245,
+"ownerEmail": "liamleo@gmail.com",
+"R/V/O": "Owner",
+"tenantName": "NA",
+"tenantMobile":"NA",
+"tenantEmail": "NA",
+"sqft": 1225,
+"maintenanceAmount": 3675,
+"paid" : "Paid",
+"due": "None"
+    },
+
+   {
+"block": "A",
+"flat": "102",
+"ownwerName": "Mr. Noah",
+"ownerMobile" :"999790823",
+"ownerEmail":"neatnoah@hotmail.com",
+"R/V/O":"Rented",
+"tenantName":"Mr. Michale",
+"tenantMobile":" 8964738279",
+"tenantEmail":"mike@gmail.com",
+"sqft":"1500",
+"maintenanceAmount":"4500",
+"paid" :"Paid",
+"due":"NA"
+ },
+   
+   {
+"block": "A",
+"flat": "103",
+"ownwerName":"Mr. William",
+"ownerMobile": 8846206402,
+"OwnerEmail": "willwhittan@gmail.com",
+"R/V/O": "Owner",
+"tenantName": "NA",
+"tenantNumber":"NA",
+"tenantEmail": "NA",
+"sqft": "1225",
+"maintenanceAmount": "3675",
+"paid": "Paid",
+"due": "NA"
+},
+
+   {
+"block": "A",
+"flat": "104",
+"ownerName":"Mr. Sunil",
+"ownerNumber": 7762946205,
+"ownerEmail": "sunilsharma@gmail.com",
+"R/V/O": "Owner",
+"tenantName": "NA",
+"tenantNumber":"NA",
+"tenantEmail": "NA",
+"sqft": "1225",
+"maintenanceAmount": "3675",
+"paid": "Paid",
+"due": "NA"
+
+   },
+
+  {
+"block": "B",
+"flat": "101",
+"ownerName":"Mr. Puneeth",
+"ownerNumber": 9866322015,
+"ownerEmail": "puneethmehta@gmail.com",
+"R/V/O": "Tenant",
+"tenantName": "Mr. Uday",
+"tenantNumber":"6638892242",
+"tenantEmail": "udayumesh@gmail.com",
+"sqft": "1500",
+"maintenanceAmount": "4500",
+"paid": "Paid",
+"due": "NA"
+},
+   {
+"block": "B",
+"flat": "102",
+"ownerName":"Mr. Yeshwanth ",
+"ownerNumber": 7783582794,
+"OwnerEmail": "yeshu@gmail.com",
+"R/V/O": "Owner",
+"tenantName": "NA",
+"tenantNumber":"NA",
+"tenantEmail": "NA",
+"sqft": "1225",
+"maintenanceAmount": "3675",
+"paid": "Paid",
+"due": "NA"
+  },
+   
+   {
+"block": "B",
+"flat": "103",
+"ownerName":"Mr. William",
+"ownerNumber": "8846206402",
+"OwnerEmail": "willwhittan@gmail.com",
+"R/V/O": "Owner",
+"tenantName": "NA",
+"tenantNumber":"NA",
+"tenantEmail": "NA",
+"sqft": "1225",
+"maintenanceAmount": "3675",
+"paid": "Paid",
+"due": "NA"
+  },
+   
+   {
+"block": "B",
+"flat": "104",
+"ownerName":"Mr. Arun",
+"ownerNumber": 7763492725,
+"OwnerEmail": "arun@gmail.com",
+"R/V/O": "Owner",
+"tenantName": "NA",
+"tenantNumber":"NA",
+"tenantEmail": "NA",
+"sqft": "1500",
+"maintenanceAmount": "4500",
+"paid": "Paid",
+"due": "NA"
+  },
+   
+   {
+"block": "B",
+"flat": "105",
+"ownerName":"Mr. Sheldon",
+"ownerNumber": 9538206402,
+"OwnerEmail": "sheldoncooper@gmail.com",
+"R/V/O": "Tenant",
+"tenantName": "Mr. Lenord",
+"tenantNumber":"7783572951",
+"tenantEmail": "leonardhoff@gmail.com",
+"sqft": "1500",
+"maintenanceAmount": "4500",
+"paid": "Paid",
+"due": "NA"
+  },
+   
+   {
+"block": "B",
+"flat": "106",
+"ownerName":"Mr. William",
+"ownerNumber": 8846206402,
+"OwnerEmail": "willwhittan@gmail.com",
+"R/V/O": "Owner",
+"tenantName": "NA",
+"tenantNumber":"NA",
+"tenantEmail": "NA",
+"sqft": "1225",
+"maintenanceAmount": "3675",
+"paid": "Paid",
+"due": "NA"
+  }
+]
